@@ -1,4 +1,4 @@
-# Parallel Stellar Core Catchup ⚡
+# Parallel Stellar Core Catchup for Pi Network ⚡
 
 ## Background
 
